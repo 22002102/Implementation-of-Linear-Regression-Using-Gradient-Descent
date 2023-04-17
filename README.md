@@ -102,19 +102,43 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![01](https://user-images.githubusercontent.com/119091638/232516042-98b4726d-3f0d-4384-98bb-e8250a082897.png)
 
-![1111111](https://user-images.githubusercontent.com/119091638/229268808-1306657f-8d33-4517-a4c0-04bef5d06221.png)
 
-![2222222020](https://user-images.githubusercontent.com/119091638/229268856-d3db2120-e322-4fec-ae62-b203dcfa39dc.png)
+![02](https://user-images.githubusercontent.com/119091638/232516087-2894bc1b-54df-4718-b54c-d3003eaab4cd.png)
 
-![333333030](https://user-images.githubusercontent.com/119091638/229268875-4dc52ce7-4f6b-4362-a2c8-c3ee8ec32d48.png)
+![03](https://user-images.githubusercontent.com/119091638/232516130-c6f42825-2f71-47bd-b560-1f7dc71c457d.png)
 
-![2222222](https://user-images.githubusercontent.com/119091638/229268893-d4f8b255-06d3-4e5d-af00-4e850201e186.png)
 
-![333333](https://user-images.githubusercontent.com/119091638/229268909-69523ad2-5a07-4e1a-8550-0131c443e784.png)
+![04](https://user-images.githubusercontent.com/119091638/232516175-ca7e6ab7-0fa6-4b39-aa06-ffac3efc88cb.png)
 
-![444444](https://user-images.githubusercontent.com/119091638/229268922-944425eb-f993-4984-8588-6fc22af492b6.png)
+![05](https://user-images.githubusercontent.com/119091638/232516201-eaacd6b0-3026-425e-b37d-0236d849df19.png)
+
+
+![06](https://user-images.githubusercontent.com/119091638/232516244-5b6e3670-403d-4272-8817-456c076b041f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
